@@ -1,0 +1,9 @@
+html * {
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-style: normal;
+}
+
+#userForm .mb-10 {
+	margin-bottom: 10px;
+}
